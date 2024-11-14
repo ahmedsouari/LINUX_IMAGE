@@ -34,6 +34,4 @@ The init process is the first user-space process started during the Linux system
 
 Contributions are welcome! If you find any issues or have suggestions for improvements, feel free to open an issue or submit a pull request.
 
-## Acknowledgements
 
-Special thanks to Eng/FadyKhalil @ [GitHub](https://github.com/FadyKhalil) & Eng/Motasem EL sayed [GitHub](https://github.com/Moatasem-Elsayed)@
