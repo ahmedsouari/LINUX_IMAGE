@@ -37,7 +37,7 @@ make menuconfig
 **build the busybox to get the minimal command:**
 
 ```
-make -j12
+make -j12 #faite attention au nombre de core de votre pc
 ```
 
 **Generate Rootfs:**
